@@ -3,7 +3,9 @@
 ## 목표 : AWS를 이용하여 우분투 가상머신 생성 후, 코딩테스트 프로그램 구현 
 ### 1. AWS 인스턴스 생성
 #### - http포트 규칙 추가
-![alt text](addport.png)
+
+![alt text](addport.PNG)
+
 
 ***
 ### 2. putty -> SSH연결
@@ -13,8 +15,8 @@
 ***
 ### 3. 코딩 문제들을 담을 txt파일 생성
 #### - `c.txt`
-![example_1](c_easy_txt.png)
-![example_2](c_easy_txt_2.png)
+![example_1](c_easy_txt.PNG)
+![example_2](c_easy_txt_2.PNG)
 
 
 ***
