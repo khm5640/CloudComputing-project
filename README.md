@@ -150,6 +150,5 @@ int main(void) {
 }
 
 ```
-#### result
-![alt text](js_1.png)
+
 
